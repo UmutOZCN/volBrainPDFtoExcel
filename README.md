@@ -69,14 +69,24 @@ python volbrainpdf2excel.py
 ---
 
 ## 📁 Project Structure
-```bash
+
 volBrainPDFtoExcel/
-├── assets/
-│   └── icon.ico
-├── volbrainpdf2excel.py
-├── README.md
-└── .gitignore
-```
+├── 📂 Screenshots/
+│ ├── ExcelTableEnglish.png
+│ ├── ExcelTableEnglishP2.png
+│ ├── LanguagesSelect.png
+│ ├── MainEnglish.png
+│ ├── ProgressBar.png
+│ └── SuccessWindow.png
+│
+├── 📂 assets/
+│ └── icon.ico
+│
+├── ⚙️ volbrainpdf2excel.py
+├── 🧾 README.md
+├── ⚙️ .gitattributes
+└── ⚙️ .gitignore
+
 ---
 
 ## 🗓️ Version History
