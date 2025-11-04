@@ -89,7 +89,27 @@ volBrainPDFtoExcel/
 
 ## 📸 Screenshots
 
-> You can add screenshots here later (UI examples, Excel export, etc.)
+> UI and functional examples are shown below.  
+> *(Some information has been redacted for patient confidentiality.)*
+
+### 🏠 Main Window
+![MainEnglish](./Screenshots/MainEnglish.png)
+
+### 🌐 Language Selection
+![LanguagesSelect](./Screenshots/LanguagesSelect.png)
+
+### ⏳ Progress Bar
+![ProgressBar](./Screenshots/ProgressBar.png)
+
+### ✅ Success Window
+![SuccessWindow](./Screenshots/SuccessWindow.png)
+
+### 📊 Excel Export – Part 1
+![ExcelTableEnglish](./Screenshots/ExcelTableEnglish.png)
+
+### 📊 Excel Export – Part 2
+![ExcelTableEnglishP2](./Screenshots/ExcelTableEnglishP2.png)
+
 
 ---
 
