@@ -70,17 +70,18 @@ python volbrainpdf2excel.py
 
 ## 📁 Project Structure
 
+```bash
 volBrainPDFtoExcel/
 ├── 📂 Screenshots/
-│ ├── ExcelTableEnglish.png
-│ ├── ExcelTableEnglishP2.png
-│ ├── LanguagesSelect.png
-│ ├── MainEnglish.png
-│ ├── ProgressBar.png
-│ └── SuccessWindow.png
+│   ├── ExcelTableEnglish.png
+│   ├── ExcelTableEnglishP2.png
+│   ├── LanguagesSelect.png
+│   ├── MainEnglish.png
+│   ├── ProgressBar.png
+│   └── SuccessWindow.png
 │
 ├── 📂 assets/
-│ └── icon.ico
+│   └── icon.ico
 │
 ├── ⚙️ volbrainpdf2excel.py
 ├── 🧾 README.md
