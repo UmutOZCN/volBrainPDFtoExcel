@@ -23,7 +23,7 @@ Built with **Python (Tkinter GUI)**, it now includes a **dual-language interface
 
 ### 🧩 Option 1 — Using Installer (Recommended)
 1. Download the latest setup file from the [**Releases**](../../releases/latest) page  
-2. Run `volBrain_PDF_to_Excel_Setup_x.x.x.exe`  
+2. Run `volBrain_PDF_to_Excel_Setup_1.1.0`  
 3. Follow the setup wizard  
 4. Launch the app from the **Start Menu** or your **Desktop shortcut**
 
@@ -69,13 +69,14 @@ python volbrainpdf2excel.py
 ---
 
 ## 📁 Project Structure
+```bash
 volBrainPDFtoExcel/
-├─ assets/
-│  └─ icon.ico
-├─ volbrainpdf2excel.py
-├─ README.md
-└─ .gitignore
-
+├── assets/
+│   └── icon.ico
+├── volbrainpdf2excel.py
+├── README.md
+└── .gitignore
+```
 ---
 
 ## 🗓️ Version History
