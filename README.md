@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-Free-green)
 
 **volBrain PDF to Excel** is a lightweight desktop application that converts **volBrain PDF reports** into structured and editable **Excel (.xlsx)** files.  
-Built with **Python (Tkinter GUI)**, it now includes a **dual-language interface** — English 🇬🇧 and Turkish 🇹🇷.
+Built with **Python (Tkinter GUI)**, it now includes a **dual-language interface** — English ᴇɴ and Turkish 🇹🇷.
 
 ---
 
