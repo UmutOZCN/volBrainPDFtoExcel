@@ -137,3 +137,8 @@ _“Turning neuroscience data into accessible insights.”_
 - Open an issue → [Issues](../../issues)  
 - Feature requests & bug reports are welcome!  
 - If you find this project useful, please give it a ⭐ on GitHub — it helps more people discover it.
+
+## 🔑 License
+
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+
